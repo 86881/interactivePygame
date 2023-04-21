@@ -1,0 +1,2 @@
+mazeClosed
+6
