@@ -1,9 +1,0 @@
-Setting Modify at Fri Apr 14 08:36:19 2023
-{
-'Forword':'up',
-'Backword':'down',
-'Left':'left',
-'Right':'right',
-'Shoot':'Space',
-'Pause':'escape',
-}
