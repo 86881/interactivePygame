@@ -1,0 +1,60 @@
+182 Thu Mar  9 20:23:47 2023
+295 Thu Mar  9 20:33:39 2023
+1222 Thu Mar  9 20:47:11 2023
+0
+ Fri Mar 10 18:55:22 2023
+2745 Fri Mar 10 19:00:36 2023
+428 Fri Mar 10 19:08:55 2023
+0
+ Fri Mar 10 20:07:29 2023
+0 Fri Mar 10 20:13:00 2023
+Cant find interactive device!
+ Fri Mar 10 20:13:07 2023
+Cant find interactive device!
+ Fri Mar 10 20:16:06 2023
+Cant find interactive device!
+ Fri Mar 10 20:16:06 2023
+0 Fri Mar 10 20:16:37 2023
+797 Fri Mar 10 20:17:48 2023
+822 Fri Mar 10 20:18:57 2023
+0 Fri Mar 10 21:32:53 2023
+1040 Fri Mar 10 22:00:33 2023
+3244 Fri Mar 10 22:03:48 2023
+0 Sun Mar 12 08:44:29 2023
+0
+ Sun Mar 12 09:32:29 2023
+0
+ Sun Mar 12 09:32:46 2023
+0 Sun Mar 12 09:35:11 2023
+18 Sun Mar 12 09:37:38 2023
+244 Sun Mar 12 09:39:50 2023
+0
+ Sun Mar 12 09:40:30 2023
+1774 Sun Mar 12 10:26:30 2023
+697 Sun Mar 12 10:28:47 2023
+42 Sun Mar 12 10:40:34 2023
+0 Sun Mar 12 10:40:41 2023
+1231 Sun Mar 12 11:19:52 2023
+0 Fri Mar 24 18:49:14 2023
+12 Fri Mar 24 18:49:30 2023
+Cant find interactive device!
+ Sat Mar 25 17:18:51 2023
+0
+ Sat Mar 25 17:32:46 2023
+0 Sat Mar 25 17:36:12 2023
+1879 Sat Mar 25 17:51:39 2023
+802 Thu Mar 30 17:51:41 2023
+7490 Sat Apr  1 20:32:27 2023
+3225 Thu Apr  6 17:29:47 2023
+319 Thu Apr  6 17:31:55 2023
+537 Thu Apr  6 17:33:10 2023
+13641 Fri Apr 14 08:35:43 2023
+847 Fri Apr 14 08:36:34 2023
+Cant find interactive device!
+ Tue Apr 18 17:36:54 2023
+Cant find interactive device!
+ Tue Apr 18 17:37:04 2023
+11575 Tue Apr 18 17:41:09 2023
+8198 Tue Apr 18 17:42:44 2023
+25295 Tue Apr 18 17:49:18 2023
+19050 Tue Apr 18 17:53:27 2023
